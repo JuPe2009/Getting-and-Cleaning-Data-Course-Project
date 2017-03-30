@@ -1,5 +1,7 @@
 # GET THE DATA FOR THE PROJECT FROM THE URL
 
+library(data.table)
+
 fileURL <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 destfile <- tempfile()
 
