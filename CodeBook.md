@@ -1,9 +1,7 @@
 
 Getting-and-Cleaning-Data-Course-Project
 
-1. Variables
-
-============
+#### 1. Variables
 
   fileURL - URL of the data source
   
@@ -33,7 +31,7 @@ Getting-and-Cleaning-Data-Course-Project
   
   tidy.data - store tidy data subset
 
-2. Data
+#### 2. Data
 
 =======
 
@@ -44,7 +42,7 @@ Getting-and-Cleaning-Data-Course-Project
   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
-3. Transformations
+#### 3. Transformations
 
 ==================
 
